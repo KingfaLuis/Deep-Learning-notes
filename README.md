@@ -1,1 +1,27 @@
 #Deep learning notes
+循环神经网络相关论文
+- on the properties of neural machine translation encoder-decoder approaches
+- https://arxiv.org/pdf/1409.1259.pdf
+- empirical evaluation of gated recurrent neural networks on sequence modeling
+- https://arxiv.org/pdf/1412.3555.pdf
+- long short term memory
+- https://www.bioinf.jku.at/publications/older/2604.pdf
+- seq
+- Sequence to Sequence Learning with Neural Networks
+- https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf
+- learning phrase representations using rnn encoder-decoder for statistical machine translation
+- https://arxiv.org/pdf/1406.1078.pdf
+- 
+- deep captioning with multimodal recurrent neural networks
+- https://arxiv.org/pdf/1412.6632.pdf
+- show and tell neural image caption generator
+- https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf
+- Deep Visual-Semantic Alignments for Generating Image Descriptions
+- https://cs.stanford.edu/people/karpathy/cvpr2015.pdf
+- 
+- BLEU: a Method for Automatic Evaluation of Machine Translation
+- https://www.aclweb.org/anthology/P02-1040.pdf
+- neural machine translation by jointly learning to align and translate
+- https://arxiv.org/pdf/1409.0473.pdf
+- connectionist temporal classification labelling unsegmented
+- https://arxiv.org/pdf/1409.0473.pdf
